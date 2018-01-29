@@ -1,0 +1,15 @@
+Enter a new distance by clicking on the Escape Distance menu.
+
+Enter a number greater than zero in the JOptionPane InputDialogBox.
+
+Enter a new maximum escape time by clicking on the Max Escape Time menu.
+
+Enter a number greater than zero and less than 256 in the JOptionPane InputDialogBox.
+
+
+If you enter a number that is not valid or a string, then the MessageDialogBox will pop up because a new 
+IllegalArgumentException is thrown and it will ask you to enter another valid input. Then that same method is called so that it will 
+only accept a legal value or close if you cancel or exit the JOptionPane.
+
+
+   

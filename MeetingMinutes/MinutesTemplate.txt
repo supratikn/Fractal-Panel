@@ -1,0 +1,23 @@
+Meeting Minutes for _______________:
+
+Meeting Attendance:
+  * Ryan  U
+  * Sean  M
+  * Supratik
+  * Aiden 
+
+Tasks completed since last meeting:
+  * Completed first part
+  * Not yet optimized 
+
+Tasks started, but not completed, since last meeting:
+  * Optimization
+  * Cleanup
+
+Tasks to be worked on (and by which team members) for the next meeting:
+  * Clean up code 
+  * Optimization
+
+Schedule for the next week's set of pair programming meetings:
+  * In Recitation next week
+  * Wednesday, 5pm, Davis Hall

@@ -1,0 +1,4 @@
+The init method in userInterFace.UI uses the second constructor for the instance of FractalPanel sets 2048,2048 as its new dimension.
+
+The getFractals method in fractal.Fractals always creates a 2-d array with 2048 columns and the number of rows depending on the 
+number of threads. Also look at fractal.Fractals.calculateRanges()  

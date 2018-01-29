@@ -1,0 +1,10 @@
+Select the JMenu "Threads" and enter a valid number of threads. An invalid number of threads shows an error message.
+
+userInterface.UI.threading(int x) divides the work. When the program is first run, it uses 4 threads.
+If 2048 is not perfectly divisible by the given number of threads. then all but the last instance of the SwingWorker array have the
+equal number of rows, the last one has the remaining number of rows.
+ The class edu.buffalo.fractal.MultiThreading uses the SwingWorkers. 
+Also look at fractals.Fractals.getFractals(int s, int e) that fills the 2-d arrays.
+The arraySizeTest in all of the fractalTests check this using 4 threads.
+The number of threads is stored in a static variable in fractals.Fractals. userInterface.UI.threading(int x) uses 
+fractals.Fractals.getThread() as parameter so the most recently entered number of threads is always used when updating images. 

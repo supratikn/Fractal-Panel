@@ -1,0 +1,23 @@
+To open the fractal GUI run the main method in edu.buffalo.cse116
+
+Once the program loads there are several menu items located at the top of the screen. 
+File-Click this then select exit to exit the program
+
+Fractal-  allows you to select each of the different Fractals by clicking on the appropriate fractal name in the drop-down.
+
+Color-  allows you to select the color chooser you want. When an item in the drop-down menu is highlighted, a slider 
+  appears to change the color brightness from darkest to brightest from (left to right).
+  
+ Escape Distance- this menu item allows you to select an escape distance. Click on it to open a JOption pane. Type in the desired 
+  escape distance for the fractal you are looking at.
+  
+ MaxEscapeTime- a JOptionPane pops up to allow the user to enter a new valid maximum number of iterations. 
+  
+ Reset Zoom - resets the zoom
+  
+  Threads- enter a valid number of threads and the program calculates the fractals using the given number of threads.
+  
+Help- this menu option when clicked opens a menu. Select the run.txt to open this document. Click on update.txt to open the text file 
+  explaining how to update the escape distance.
+
+
